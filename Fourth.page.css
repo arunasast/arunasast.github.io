@@ -33,10 +33,9 @@ text-decoration: none;
 margin: 0px 0px 0px 37%;
 }
 
-#content a {
+#content ul {
 font-size: 40px;
 LINE-HEIGHT:100px;
-text-decoration: none;
 }
 .fb { text-decoration: none; }
 
