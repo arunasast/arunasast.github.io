@@ -37,8 +37,8 @@ margin: 0px 0px 0px 37%;
 font-size: 40px;
 LINE-HEIGHT:100px;
 text-decoration: none;
-background-color: blue;
 }
+.fb { text-decoration: none; }
 
 
 #footer {
